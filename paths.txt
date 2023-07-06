@@ -1,0 +1,4 @@
+C:\Python3_11_4\
+C:\Python3_11_4\Scripts\
+C:\Python3_10_11\
+C:\Python3_10_11\Scripts\
